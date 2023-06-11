@@ -1,0 +1,12 @@
+#general-info div,
+#edu-info div,
+#work-info div {
+  margin-top: 10px;
+}
+.title {
+  font-weight: 700;
+  font-size: 20px;
+}
+.value {
+  font-size: 18px;
+}
